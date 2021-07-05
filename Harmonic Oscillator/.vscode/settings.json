@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "I:\\Users\\Ragav\\miniconda3\\envs\\jup_tf_gpu_230\\python.exe",
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
